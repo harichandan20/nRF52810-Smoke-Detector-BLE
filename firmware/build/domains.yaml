@@ -1,7 +1,0 @@
-default: firmware
-build_dir: C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build
-domains:
-  - name: firmware
-    build_dir: C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/firmware
-flash_order:
-  - firmware

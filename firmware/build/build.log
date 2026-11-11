@@ -1,5 +1,0 @@
-2026-11-11T08:48:29.989Z west build --build-dir c:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build c:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware
-2026-11-11T08:48:31.112Z [0/3] Performing build step for 'firmware'
-2026-11-11T08:48:31.849Z ninja: no work to do.
-2026-11-11T08:48:31.893Z [2/3] No install step for 'firmware'
-2026-11-11T08:48:32.089Z [3/3] Completed 'firmware'
