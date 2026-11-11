@@ -1,2 +1,12 @@
+# Zephyr build output
+**/build/
+.west/
 
-firmware/build/
+# IDE settings
+.vscode/
+
+# Compiled output files
+*.elf
+*.hex
+*.map
+*.bin
