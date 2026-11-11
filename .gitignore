@@ -1,0 +1,7 @@
+**/build/
+.west/
+.vscode/
+*.elf
+*.hex
+*.map
+*.bin
