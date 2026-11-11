@@ -1,0 +1,48 @@
+
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "BUILD - nRF52810",
+            "type": "shell",
+            "command": "west",
+            "args": [
+                "build",
+                "-p",
+                "always",
+                "-b",
+                "nrf52dk/nrf52810",
+                "."
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/firmware"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "FLASH - nRF52810 using ST-Link",
+            "type": "shell",
+            "command": "C:\\Users\\hari2\\Downloads\\xpack-openocd-0.12.0-7-win32-x64\\xpack-openocd-0.12.0-7\\bin\\openocd.exe",
+            "args": [
+                "-s",
+                "C:\\Users\\hari2\\Downloads\\xpack-openocd-0.12.0-7-win32-x64\\xpack-openocd-0.12.0-7\\openocd\\scripts",
+                "-f",
+                "interface/stlink.cfg",
+                "-f",
+                "target/nrf52.cfg",
+                "-c",
+                "init; reset halt; program build/firmware/zephyr/zephyr.hex verify; reset run; shutdown"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}/firmware"
+            },
+            "problemMatcher": []
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/CMakeFiles/firmware"
+		},
+		{
+			"file" : "C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/CMakeFiles/firmware.rule"
+		},
+		{
+			"file" : "C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/CMakeFiles/firmware-complete.rule"
+		},
+		{
+			"file" : "C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-build.rule"
+		},
+		{
+			"file" : "C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-configure.rule"
+		},
+		{
+			"file" : "C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-download.rule"
+		},
+		{
+			"file" : "C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-install.rule"
+		},
+		{
+			"file" : "C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-patch.rule"
+		},
+		{
+			"file" : "C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"firmware"
+		],
+		"name" : "firmware"
+	}
+}

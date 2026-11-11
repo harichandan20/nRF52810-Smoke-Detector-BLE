@@ -1,0 +1,13 @@
+# Target labels
+ firmware
+# Source files and their labels
+C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/CMakeFiles/firmware
+C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/CMakeFiles/firmware.rule
+C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/CMakeFiles/firmware-complete.rule
+C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-build.rule
+C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-configure.rule
+C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-download.rule
+C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-install.rule
+C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-mkdir.rule
+C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-patch.rule
+C:/Users/hari2/OneDrive/Desktop/nRF52810-Smoke-Detector-BLE/firmware/build/_sysbuild/sysbuild/images/firmware-prefix/src/firmware-stamp/firmware-update.rule
